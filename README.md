@@ -5,9 +5,9 @@ Fan controlled by esp32 using mq2 smoke cigarette sensor.
 with ability to use fan speed (for 4 wired fan , like delta fan from server)
 
 equipment:
-mq2 sensor
-esp32
-relay
+mq2 sensor,
+esp32,
+relay,
 4 wire fan
 
 Pinout - relay pin 25 , fan pwm - pin 26, sensor pin 34
